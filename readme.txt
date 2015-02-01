@@ -26,8 +26,8 @@ If you have questions or would like to request additional features, such as addi
 == Installation ==
 
 1. You have a couple options:
-	* *Go to Plugins->Add New and search for "Genesis Columns Advanced”. Once found, click "Install".
-	* *Download the folder from Wordpress.org and zip the folder. Then upload via Plugins->Add New->Upload.
+	* Go to Plugins->Add New and search for "Genesis Columns Advanced”. Once found, click "Install".
+	* Download the folder from Wordpress.org and zip the folder. Then upload via Plugins->Add New->Upload.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. From the ‘Plugins’ page, head to a post/page and check out the new button in your editor.
 4. If you have any implementation questions, please post in the plugin support forum.
@@ -38,7 +38,7 @@ If you have questions or would like to request additional features, such as addi
 
 = Why is there no option for five even columns, or columns broken down by fifths? =
 
-This was a conscious decision in order for the plugin stay inline with the column classes offered by the Genesis Framework. The informational page on Genesis’s column classes can be found on [Studiopress.com](http://my.studiopress.com/tutorials/content-column-classes/). As of Genesis v2.1.2, there unfortunately is no option for fifths. If this changes in the future, I will update this plugin. 
+This was a conscious decision in order for the plugin to stay inline with the column classes offered by the Genesis Framework. The informational page on Genesis’s column classes can be found on [Studiopress.com](http://my.studiopress.com/tutorials/content-column-classes/). As of Genesis v2.1.2, there unfortunately is no option for fifths. If this changes in the future, I will update this plugin. 
 
 == Screenshots ==
 
