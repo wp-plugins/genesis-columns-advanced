@@ -11,10 +11,10 @@ Generates shortcodes for all 35 possible column layouts when using Genesis colum
 
 == Description ==
 
-This plugin generates shortcodes for every column configuration available with the column classes built into the Genesis Framework by [StudioPress](http://www.studiopress.com). Shortcodes are easily added using a custom button in your Wordpress editor.
+This plugin generates shortcodes for every column configuration available with the column classes provided by the Genesis Framework by [StudioPress](http://www.studiopress.com). Shortcodes are easily added using a custom button in your Wordpress editor.
 
 = Plugin Highlights =
-* 35 different responsive column configuration available
+* 35 different responsive column configurations available
 * Includes two utility shortcodes to assist with layout
 * Only adds one button to your Wordpress editor
 * Custom button design integrates seamlessly with the core Wordpress aesthetic
