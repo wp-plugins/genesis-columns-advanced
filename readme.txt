@@ -3,7 +3,7 @@ Contributors: ndiego, outermostdesign
 Tags: columns, shortcode, genesis, Genesis Framework, genesiswp, TinyMCE, admin
 Requires at least: 3.6
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,4 +51,7 @@ This was a conscious decision in order for the plugin to stay inline with the co
 
 = 1.0.0 =
 * Initial Release
+
+= 1.0.1 =
+* Fixed bug associated with wpautop
 
